@@ -15,7 +15,7 @@ Vue components to display graphics based on [D3.js](https://d3js.org/) layout.
 
 ## Live demo
 
-https://david-desmaisons.github.io/Vue.D3.tree/tree
+https://luciotato.github.io/Vue.D3.tree/tree
 
 ## Usage
 
